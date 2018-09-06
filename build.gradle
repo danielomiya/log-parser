@@ -1,0 +1,20 @@
+buildscript {
+    ext {
+        junit_version = '4.12'
+    }
+}
+
+apply plugin: 'java'
+
+group 'net.gwyddie'
+version '1.0.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile "junit:junit:$junit_version"
+}

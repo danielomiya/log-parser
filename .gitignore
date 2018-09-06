@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# except our log
+!games.log
+
 # BlueJ files
 *.ctxt
 
@@ -21,3 +24,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Cache, IDE and Generated files
+.idea/
+.gradle/
+out/
+bin/
+production/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
