@@ -31,6 +31,7 @@ hs_err_pid*
 out/
 bin/
 production/
+reports/
 
 # Gradle wrapper
 !gradle/wrapper/gradle-wrapper.jar
