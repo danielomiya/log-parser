@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Class used to parse the logs.
+ * Class used to parse the tokens from logs.
  */
 @SuppressWarnings("WeakerAccess")
 public class Parser {

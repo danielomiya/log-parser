@@ -9,7 +9,7 @@ import static java.util.stream.Collectors.toList;
 import static java.util.stream.Collectors.toMap;
 
 /**
- * Representation of a Game.
+ * Representation of a Game
  */
 public class Game {
     /**

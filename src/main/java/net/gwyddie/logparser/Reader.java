@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Class used to get contents from a file.
+ * Class used to read contents from a file
  */
 @SuppressWarnings("WeakerAccess")
 public class Reader {

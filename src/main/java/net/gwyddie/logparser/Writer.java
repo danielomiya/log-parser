@@ -51,7 +51,7 @@ public class Writer {
      * Gets an instance of BufferedWriter
      *
      * @return an instance of BufferedWriter
-     * @throws IOException thrown by the BufferedWriter itself
+     * @throws IOException can be thrown by the BufferedWriter constructor itself
      */
     private BufferedWriter getWriter() throws IOException {
         if (writer == null)

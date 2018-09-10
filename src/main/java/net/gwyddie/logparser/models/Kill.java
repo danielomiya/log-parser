@@ -1,7 +1,7 @@
 package net.gwyddie.logparser.models;
 
 /**
- * A representation of a Kill.
+ * A representation of a Kill
  */
 @SuppressWarnings("WeakerAccess")
 public class Kill {

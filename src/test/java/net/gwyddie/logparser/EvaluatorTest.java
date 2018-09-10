@@ -14,7 +14,7 @@ public class EvaluatorTest {
     @Test
     public void testEvaluate() {
         final Evaluator evaluator = new Evaluator(new Parser(), Arrays.asList(
-                " 11:11 InitGame: payload does not matter",
+                " 11:11 InitGame: payload does not matter for now",
                 " 22:22 Kill: 1 2 3: <world> killed himself by MOD_FALLING"
         ));
 

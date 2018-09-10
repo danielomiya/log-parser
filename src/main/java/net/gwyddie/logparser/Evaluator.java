@@ -24,7 +24,7 @@ public class Evaluator {
     private final List<String> lines;
 
     /**
-     * List of evaluated games.
+     * List<Game> of evaluated games.
      */
     private final List<Game> games;
 

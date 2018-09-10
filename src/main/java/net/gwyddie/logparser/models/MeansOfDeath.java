@@ -1,7 +1,7 @@
 package net.gwyddie.logparser.models;
 
 /**
- * The means of death.
+ * The means of death
  */
 @SuppressWarnings("unused")
 public enum MeansOfDeath {

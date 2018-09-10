@@ -11,6 +11,6 @@ public class ReaderTest {
     public void testRead() {
         final List<String> lines = new Reader("games.log").read();
 
-        assertEquals("Reader::read must return 5306, which is the amount of lines on file.", 5306, lines.size());
+        assertEquals("Reader::read should return 5306, which is the amount of lines on file.", 5306, lines.size());
     }
 }

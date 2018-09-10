@@ -5,7 +5,7 @@ import net.gwyddie.logparser.models.Game;
 import java.util.List;
 
 /**
- * Main class.
+ * Main class
  */
 public class Program {
     /**

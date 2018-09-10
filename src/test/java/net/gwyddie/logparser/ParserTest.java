@@ -33,7 +33,7 @@ public class ParserTest {
                 .collect(toList()); // and turn it into a List<>
 
         // games.log has 1069 kills
-        assertEquals("List<KillToken>::size must be equal 1069", 1069, killTokens.size());
+        assertEquals("List<KillToken>::size should be equal 1069", 1069, killTokens.size());
     }
 
     @Test
